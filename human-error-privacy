@@ -1,0 +1,77 @@
+Política de Privacidade - Human Error
+Última atualização: 09 de janeiro de 2026
+
+Esta Política de Privacidade descreve como o aplicativo Human Error ("nós", "nosso" ou "o app") coleta, usa e protege as informações dos usuários ("você" ou "usuário") ao utilizar nosso jogo mobile.
+
+Informações que Coletamos
+O Human Error coleta e processa as seguintes categorias de informações para fornecer e melhorar nossos serviços.
+
+Informações Fornecidas Diretamente pelo Usuário
+Quando você utiliza o app, podemos coletar informações que você fornece voluntariamente, incluindo seu nome de jogador (nickname) ao submeter sua pontuação no ranking global. Esta informação é fornecida por você de forma opcional e pode ser um apelido ou pseudônimo de sua escolha.
+
+Informações Coletadas Automaticamente
+Durante o uso do aplicativo, coletamos automaticamente certas informações técnicas e de uso para garantir o funcionamento adequado do jogo e melhorar a experiência do usuário. Estas informações incluem dados de gameplay (pontuações, níveis alcançados, tempo de jogo) que são armazenados localmente no seu dispositivo e, opcionalmente, sincronizados com nosso banco de dados quando você escolhe participar do ranking global.
+
+O app também detecta automaticamente o idioma do seu dispositivo para apresentar o conteúdo no idioma apropriado (Português, Inglês ou Espanhol), sem armazenar esta preferência em servidores externos.
+
+Informações de Terceiros
+Utilizamos o Firebase Realtime Database (serviço fornecido pelo Google) para armazenar e sincronizar o ranking global de jogadores. Quando você submete sua pontuação, as seguintes informações são enviadas e armazenadas no Firebase: seu nome de jogador escolhido, sua pontuação máxima e o nível alcançado. O Firebase pode coletar informações adicionais conforme sua própria política de privacidade, disponível em https://firebase.google.com/support/privacy.
+
+Como Usamos Suas Informações
+As informações coletadas são utilizadas exclusivamente para os seguintes propósitos legítimos relacionados ao funcionamento do aplicativo.
+
+Funcionamento do Jogo: Utilizamos seus dados de gameplay armazenados localmente para salvar seu progresso, manter seu recorde pessoal e personalizar sua experiência de jogo. Estas informações permanecem no seu dispositivo e não são compartilhadas sem sua ação explícita.
+
+Ranking Global: Quando você opta por submeter sua pontuação ao ranking global, utilizamos o nome de jogador fornecido e sua pontuação para exibir sua posição no leaderboard público visível a todos os usuários do app. Esta é uma funcionalidade opcional que requer sua ação deliberada.
+
+Personalização de Idioma: Detectamos o idioma configurado no seu dispositivo para apresentar automaticamente o conteúdo do jogo no idioma mais apropriado, melhorando sua experiência sem necessidade de configuração manual.
+
+Melhoria do Serviço: Analisamos padrões agregados e anônimos de uso para identificar problemas técnicos, otimizar o desempenho do app e desenvolver novas funcionalidades que atendam melhor às necessidades dos jogadores.
+
+Compartilhamento de Informações
+Não vendemos, alugamos ou comercializamos suas informações pessoais a terceiros para fins de marketing ou publicidade. O compartilhamento de dados ocorre apenas nas seguintes circunstâncias limitadas e necessárias.
+
+Provedores de Serviço: Utilizamos o Firebase (Google LLC) como provedor de infraestrutura de banco de dados para o ranking global. O Firebase processa informações em nosso nome de acordo com nossas instruções e está sujeito a obrigações de confidencialidade. O Google pode processar dados conforme sua própria política de privacidade.
+
+Ranking Público: As informações que você escolhe submeter ao ranking global (nome de jogador e pontuação) são publicamente visíveis a todos os usuários do aplicativo como parte da funcionalidade essencial do leaderboard.
+
+Requisitos Legais: Podemos divulgar suas informações se exigido por lei, ordem judicial, processo legal ou solicitação governamental, ou quando acreditarmos de boa-fé que a divulgação é necessária para proteger nossos direitos, sua segurança ou a segurança de outros.
+
+Armazenamento e Segurança dos Dados
+Implementamos medidas técnicas e organizacionais apropriadas para proteger suas informações contra acesso não autorizado, alteração, divulgação ou destruição. Os dados de gameplay são armazenados localmente no seu dispositivo utilizando mecanismos seguros de armazenamento do sistema operacional. Os dados do ranking global são armazenados no Firebase Realtime Database, que utiliza criptografia em trânsito (HTTPS/TLS) e em repouso, além de controles de acesso rigorosos.
+
+Embora nos esforcemos para proteger suas informações, nenhum método de transmissão pela internet ou armazenamento eletrônico é completamente seguro. Não podemos garantir segurança absoluta, mas continuamente revisamos e atualizamos nossas práticas de segurança.
+
+Retenção de Dados
+Mantemos suas informações apenas pelo tempo necessário para cumprir os propósitos descritos nesta política ou conforme exigido por lei. Os dados de gameplay armazenados localmente no seu dispositivo permanecem até que você desinstale o aplicativo ou limpe os dados manualmente através das configurações do sistema. Os dados do ranking global (nome de jogador e pontuação) são mantidos indefinidamente para preservar a integridade histórica do leaderboard, mas você pode solicitar a remoção conforme descrito na seção de Seus Direitos.
+
+Seus Direitos e Escolhas
+Você possui controle sobre suas informações e pode exercer os seguintes direitos a qualquer momento.
+
+Acesso e Correção: Você pode visualizar suas pontuações e dados de gameplay diretamente no aplicativo. Para informações armazenadas no ranking global, entre em contato conosco através do email fornecido abaixo.
+
+Exclusão: Você pode excluir seus dados locais de gameplay desinstalando o aplicativo ou limpando os dados através das configurações do dispositivo. Para solicitar a remoção de suas informações do ranking global, entre em contato conosco e processaremos sua solicitação dentro de um prazo razoável.
+
+Opt-out do Ranking: Você não é obrigado a participar do ranking global. Simplesmente não submeta sua pontuação quando solicitado, e seus dados permanecerão apenas no seu dispositivo.
+
+Configurações de Idioma: Você pode alterar o idioma do jogo a qualquer momento através das configurações do aplicativo, independentemente do idioma configurado no seu dispositivo.
+
+Privacidade de Crianças
+O Human Error não é direcionado a crianças menores de 13 anos, e não coletamos intencionalmente informações pessoais de crianças. Se você é pai ou responsável e acredita que seu filho forneceu informações pessoais através do app, entre em contato conosco imediatamente para que possamos tomar as medidas apropriadas de remoção. Se tomarmos conhecimento de que coletamos informações de crianças menores de 13 anos sem verificação de consentimento parental, tomaremos medidas para remover essas informações de nossos servidores.
+
+Transferências Internacionais de Dados
+O Firebase Realtime Database pode armazenar e processar dados em servidores localizados em diferentes países, incluindo fora do seu país de residência. Ao utilizar o aplicativo e submeter informações ao ranking global, você consente com a transferência de suas informações para esses países, que podem ter leis de proteção de dados diferentes das do seu país. Tomamos medidas para garantir que suas informações recebam proteção adequada conforme exigido pelas leis aplicáveis.
+
+Alterações a Esta Política
+Podemos atualizar esta Política de Privacidade periodicamente para refletir mudanças em nossas práticas, tecnologias ou requisitos legais. Notificaremos você sobre alterações significativas publicando a nova política no aplicativo e atualizando a data de "Última atualização" no topo deste documento. Recomendamos que você revise esta política periodicamente para se manter informado sobre como protegemos suas informações. O uso continuado do aplicativo após alterações constitui sua aceitação da política revisada.
+
+Contato
+Se você tiver dúvidas, preocupações ou solicitações relacionadas a esta Política de Privacidade ou ao tratamento de suas informações pessoais, entre em contato conosco através do seguinte email:
+
+Email: contato@meucontomagico.com.br
+
+Responderemos a todas as solicitações legítimas dentro de um prazo razoável, geralmente dentro de 30 dias.
+
+Human Error - To Fail is Human
+
+© 2026 Human Error. Todos os direitos reservados.
