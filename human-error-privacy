@@ -1,353 +1,181 @@
 Política de Privacidade - Human Error
+Última atualização: 06 de fevereiro de 2026
 
-Última atualização: 01 de fevereiro de 2026
+Informações do Desenvolvedor
+Nome do Desenvolvedor: Guippbr
 
+Responsável: Guilherme Ramos
+
+Endereço: Rua Luiz Manfrim, 619
+Presidente Prudente, Parque Residencial Damha IV
+CEP: 19054-080
+Brasil
+
+Email: contato@meucontomagico.com.br
+
+Telefone: +55 18 99671-8991
+
+1. Introdução
 Esta Política de Privacidade descreve como o aplicativo Human Error ("nós", "nosso" ou "o app") coleta, usa e protege as informações dos usuários ("você" ou "usuário") ao utilizar nosso jogo mobile.
 
-
-
-
-1. Informações do Desenvolvedor
-
-Nome do Desenvolvedor: Guilherme Ramos
-Email de Contato: guilhermeram@gmail.com
-Website: https://guilhermeram-code.github.io/human-error-privacy/
-
-Para dúvidas, solicitações ou exercício de seus direitos relacionados à privacidade, entre em contato através do email acima.
-
-
-
+Ao usar o Human Error, você concorda com a coleta e uso de informações de acordo com esta política.
 
 2. Informações que Coletamos
-
 O Human Error coleta e processa as seguintes categorias de informações para fornecer e melhorar nossos serviços.
 
 2.1 Informações Fornecidas Diretamente pelo Usuário
-
 Quando você utiliza o app, podemos coletar informações que você fornece voluntariamente, incluindo:
 
-•
-Nome de jogador (nickname ): Ao submeter sua pontuação no ranking global. Esta informação é fornecida por você de forma opcional e pode ser um apelido ou pseudônimo de sua escolha.
-
+Nome de jogador (nickname): Ao submeter sua pontuação no ranking global. Esta informação é fornecida por você de forma opcional e pode ser um apelido ou pseudônimo de sua escolha.
 2.2 Informações Coletadas Automaticamente
-
 Durante o uso do aplicativo, coletamos automaticamente certas informações técnicas e de uso para garantir o funcionamento adequado do jogo e melhorar a experiência do usuário:
 
-•
 Dados de gameplay: Pontuações, níveis alcançados, tempo de jogo. Estes dados são armazenados localmente no seu dispositivo e, opcionalmente, sincronizados com nosso banco de dados quando você escolhe participar do ranking global.
-
-•
 Preferência de idioma: O app detecta automaticamente o idioma do seu dispositivo para apresentar o conteúdo no idioma apropriado (Português, Inglês ou Espanhol), sem armazenar esta preferência em servidores externos.
-
-•
 Dados de notificações: Quando você interage com notificações locais do app (lembretes para jogar, timer de jogadas).
-
 2.3 Informações de Terceiros
-
 Firebase Realtime Database (Google LLC)
-
 Utilizamos o Firebase Realtime Database para armazenar e sincronizar o ranking global de jogadores. Quando você submete sua pontuação, as seguintes informações são enviadas e armazenadas no Firebase:
 
-•
 Nome de jogador escolhido
-
-•
 Pontuação máxima
-
-•
 Nível alcançado
-
 O Firebase pode coletar informações adicionais conforme sua própria política de privacidade, disponível em: https://firebase.google.com/support/privacy
 
-Google AdMob (Google LLC )
-
+Google AdMob (Google LLC)
 O Human Error exibe anúncios através do Google AdMob para monetização. O AdMob coleta e processa informações para personalização e exibição de anúncios, incluindo:
 
-•
 Identificador de publicidade (Advertising ID): Um identificador único e redefinível associado ao seu dispositivo, usado para exibir anúncios personalizados.
-
-•
 Dados de interação com anúncios: Cliques, visualizações, tempo de exibição.
-
-•
 Informações do dispositivo: Modelo, sistema operacional, versão do app, idioma, fuso horário.
-
-•
 Dados de localização aproximada: Baseado no endereço IP (país/cidade), não coletamos localização GPS precisa.
-
-Conformidade com Políticas para Famílias: Configuramos o AdMob para exibir apenas anúncios apropriados para todas as idades (classificação "G" - General Audiences) e ativamos o tratamento de conteúdo direcionado a crianças (tagForChildDirectedTreatment), conforme as Políticas do Programa para Famílias do Google Play.
+Conformidade com Políticas para Famílias: Configuramos o AdMob para exibir apenas anúncios apropriados para todas as idades (classificação "G" - General Audiences) e ativamos o tratamento de conteúdo direcionado a crianças, conforme as Políticas do Programa para Famílias do Google Play.
 
 Para mais informações sobre como o Google AdMob coleta e usa dados, consulte:
 
-•
 Política de Privacidade do Google: https://policies.google.com/privacy
-
-•
 Como o Google usa dados de apps que usam seus serviços: https://policies.google.com/technologies/partner-sites
-
 Controle de Anúncios Personalizados: Você pode desativar anúncios personalizados nas configurações do seu dispositivo:
 
-•
 Android: Configurações > Google > Anúncios > Desativar personalização de anúncios
-
-•
 iOS: Configurações > Privacidade > Publicidade > Limitar rastreamento de anúncios
-
-
-
-
 3. Como Usamos Suas Informações
-
 As informações coletadas são utilizadas exclusivamente para os seguintes propósitos legítimos relacionados ao funcionamento do aplicativo:
 
 3.1 Funcionamento do Jogo
-
-Utilizamos seus dados de gameplay armazenados localmente para salvar seu progresso, manter seu recorde pessoal e personalizar sua experiência de jogo. Estas informações permanecem no seu dispositivo e não são compartilhadas sem sua ação explícita.
+Utilizamos seus dados de gameplay armazenados localmente para salvar seu progresso, manter seu recorde pessoal e personalizar sua experiência de jogo.
 
 3.2 Ranking Global
-
 Quando você opta por submeter sua pontuação ao ranking global, utilizamos o nome de jogador fornecido e sua pontuação para exibir sua posição no leaderboard público visível a todos os usuários do app.
 
 3.3 Personalização de Idioma
-
 Detectamos o idioma configurado no seu dispositivo para apresentar automaticamente o conteúdo do jogo no idioma mais apropriado.
 
 3.4 Notificações Locais
+Enviamos notificações locais (armazenadas no dispositivo, não enviadas por servidor) para:
 
-Enviamos notificações locais (armazenadas no dispositivo, não enviadas por servidor ) para:
-
-•
 Lembrar você de jogar após períodos de inatividade (1, 3 e 7 dias)
-
-•
 Avisar quando o timer de jogadas (5 minutos) terminar
-
-•
 Celebrar marcos de jogabilidade (ex: 10 jogos completados)
-
 3.5 Monetização
-
 Exibimos anúncios através do Google AdMob para sustentar o desenvolvimento e manutenção gratuita do app. Os anúncios são configurados para serem apropriados para todas as idades.
 
 3.6 Melhoria do Serviço
-
 Analisamos padrões agregados e anônimos de uso para identificar problemas técnicos, otimizar o desempenho do app e desenvolver novas funcionalidades.
 
-
-
-
 4. Compartilhamento de Informações
-
 Não vendemos, alugamos ou comercializamos suas informações pessoais. O compartilhamento ocorre apenas nos seguintes casos:
 
 4.1 Provedores de Serviço
-
-•
 Firebase (Google LLC): Para armazenamento e sincronização do ranking global.
-
-•
 Google AdMob (Google LLC): Para exibição de anúncios e monetização.
-
-Estes provedores processam dados em nosso nome e estão obrigados a proteger suas informações conforme suas políticas de privacidade.
-
 4.2 Ranking Público
-
 O nome de jogador e a pontuação que você submete ao ranking global são visíveis publicamente no leaderboard a todos os usuários do app.
 
 4.3 Requisitos Legais
-
 Podemos divulgar suas informações quando exigido por lei, ordem judicial, ou para proteger nossos direitos legais.
 
-
-
-
 5. Armazenamento e Segurança
-
 5.1 Armazenamento Local
-
 Os dados de gameplay (progresso, pontuações, preferências) são armazenados localmente no seu dispositivo usando armazenamento seguro (AsyncStorage).
 
 5.2 Armazenamento em Nuvem
-
-Os dados do ranking global são armazenados no Firebase Realtime Database (Google Cloud Platform), que utiliza:
-
-•
-Criptografia em trânsito (HTTPS/TLS)
-
-•
-Criptografia em repouso
-
-•
-Controles de acesso rigorosos
-
-•
-Backups automáticos
+Os dados do ranking global são armazenados no Firebase Realtime Database (Google Cloud Platform), que utiliza criptografia em trânsito (HTTPS/TLS) e em repouso.
 
 5.3 Medidas de Segurança
-
-Implementamos medidas técnicas e organizacionais apropriadas para proteger suas informações contra acesso não autorizado, alteração, divulgação ou destruição. No entanto, nenhum método de transmissão pela internet ou armazenamento eletrônico é 100% seguro.
-
-
-
+Implementamos medidas técnicas e organizacionais apropriadas para proteger suas informações contra acesso não autorizado, alteração, divulgação ou destruição.
 
 6. Retenção de Dados
-
 6.1 Dados Locais
-
-Os dados armazenados localmente no seu dispositivo permanecem até que você desinstale o app ou limpe os dados manualmente nas configurações do dispositivo.
+Os dados armazenados localmente no seu dispositivo permanecem até que você desinstale o app ou limpe os dados manualmente.
 
 6.2 Dados do Ranking Global
-
-Os dados do ranking global (nome de jogador e pontuação) são mantidos indefinidamente para preservar a integridade do leaderboard histórico. Você pode solicitar a remoção dos seus dados a qualquer momento através do email de contato.
+Os dados do ranking global (nome de jogador e pontuação) são mantidos indefinidamente para preservar a integridade do leaderboard histórico. Você pode solicitar a remoção dos seus dados a qualquer momento.
 
 6.3 Dados do AdMob
-
-Os dados coletados pelo Google AdMob são retidos conforme a política de retenção do Google, geralmente por períodos limitados necessários para fins publicitários.
-
-
-
+Os dados coletados pelo Google AdMob são retidos conforme a política de retenção do Google.
 
 7. Seus Direitos
-
 Você tem os seguintes direitos em relação aos seus dados pessoais:
 
-7.1 Acesso e Visualização
-
-•
-Visualizar seus dados de gameplay e pontuações diretamente no app.
-
-7.2 Correção
-
-•
-Alterar seu nome de jogador ao submeter uma nova pontuação ao ranking.
-
-7.3 Exclusão
-
-•
-Solicitar a remoção dos seus dados do ranking global através do email: guilhermeram@gmail.com
-
-•
-Desinstalar o app para remover todos os dados locais.
-
-7.4 Opt-Out
-
-•
-Não participar do ranking global (simplesmente não submeta sua pontuação).
-
-•
-Desativar notificações locais nas configurações do dispositivo.
-
-•
-Desativar anúncios personalizados nas configurações de privacidade do dispositivo.
-
-7.5 Portabilidade
-
-•
-Solicitar uma cópia dos seus dados do ranking através do email de contato.
-
-Para exercer qualquer destes direitos, entre em contato conosco através do email: guilhermeram@gmail.com
-
-
-
-
+Acesso: Visualizar seus dados de gameplay e pontuações diretamente no app.
+Correção: Alterar seu nome de jogador ao submeter uma nova pontuação.
+Exclusão: Solicitar a remoção dos seus dados do ranking global através do email de contato.
+Opt-Out: Não participar do ranking global, desativar notificações ou anúncios personalizados.
+Portabilidade: Solicitar uma cópia dos seus dados através do email de contato.
 8. Privacidade de Crianças
-
 O Human Error é classificado como apropriado para todas as idades e implementa medidas de proteção para crianças:
 
-•
-Não coletamos intencionalmente dados pessoais de crianças menores de 13 anos sem o consentimento dos pais ou responsáveis.
-
-•
-Anúncios apropriados: Configuramos o AdMob para exibir apenas anúncios classificados como "G" (General Audiences) e ativamos o tratamento de conteúdo direcionado a crianças.
-
-•
+Não coletamos intencionalmente dados pessoais de crianças menores de 13 anos sem o consentimento dos pais.
+Anúncios apropriados: Configuramos o AdMob para exibir apenas anúncios classificados como "G" (General Audiences).
 Dados mínimos: Coletamos apenas o mínimo necessário (nome de jogador opcional para ranking).
-
-Se você é pai ou responsável e acredita que seu filho forneceu informações pessoais sem seu consentimento, entre em contato conosco imediatamente através do email guilhermeram@gmail.com para que possamos remover os dados.
-
-
-
+Se você é pai ou responsável e acredita que seu filho forneceu informações sem seu consentimento, entre em contato conosco imediatamente.
 
 9. Transferências Internacionais de Dados
-
-O Firebase e o Google AdMob podem processar e armazenar dados em servidores localizados fora do seu país de residência, incluindo nos Estados Unidos e outros países onde o Google opera.
-
-Ao usar o Human Error, você consente com a transferência de suas informações para estes países, que podem ter leis de proteção de dados diferentes das do seu país. O Google implementa salvaguardas apropriadas, incluindo cláusulas contratuais padrão, para proteger seus dados durante transferências internacionais.
-
-
-
+O Firebase e o Google AdMob podem processar e armazenar dados em servidores localizados fora do seu país de residência, incluindo nos Estados Unidos. O Google implementa salvaguardas apropriadas para proteger seus dados durante transferências internacionais.
 
 10. Alterações a Esta Política
-
-Podemos atualizar esta Política de Privacidade periodicamente para refletir mudanças em nossas práticas, tecnologias, requisitos legais ou outros fatores.
-
-Notificação de Alterações:
-
-•
-A data de "Última atualização" no topo desta política será alterada.
-
-•
-Alterações significativas serão comunicadas através de notificação no app ou por email (se disponível).
-
-Aceitação Contínua:
-O uso contínuo do Human Error após alterações nesta política indica sua aceitação das mudanças. Recomendamos que você revise esta política periodicamente.
-
-
-
+Podemos atualizar esta Política de Privacidade periodicamente. A data de "Última atualização" no topo será alterada. Alterações significativas serão comunicadas através de notificação no app.
 
 11. Conformidade com Políticas do Google Play
-
 Esta política de privacidade está em conformidade com:
 
-•
 Políticas do Programa para Desenvolvedores do Google Play
-
-•
 Políticas do Programa para Famílias do Google Play
-
-•
 Requisitos de Formato de Anúncios para Famílias
-
-•
 Lei Geral de Proteção de Dados (LGPD) - Brasil
-
-•
 Children's Online Privacy Protection Act (COPPA) - EUA
-
-
-
-
 12. Contato
-
 Para dúvidas, solicitações, reclamações ou exercício de direitos relacionados à privacidade, entre em contato:
 
-Desenvolvedor: Guilherme Ramos
-Email: guilhermeram@gmail.com
-Website: https://guilhermeram-code.github.io/human-error-privacy/
+Email: contato@meucontomagico.com.br
+
+Telefone: +55 18 99671-8991
+
+Endereço:
+Guippbr - Guilherme Ramos
+Rua Luiz Manfrim, 619
+Presidente Prudente, Parque Residencial Damha IV
+CEP: 19054-080
+Brasil
 
 Tempo de Resposta: Nos esforçamos para responder todas as solicitações dentro de 30 dias.
 
-
-
-
 13. Informações Adicionais
+13.1 Compras In-App
+O app oferece uma opção de compra premium vitalícia (R$ 4,90) processada através do Google Play Billing. O Google processa as informações de pagamento; não temos acesso aos seus dados de cartão de crédito.
 
-13.1 Cookies e Tecnologias Similares
-
-O Human Error não usa cookies diretamente. No entanto, o Google AdMob pode usar tecnologias similares para rastreamento de anúncios conforme descrito na política de privacidade do Google.
-
-13.2 Compras In-App
-
-O app oferece uma opção de compra premium vitalícia (R$ 4,90 ) processada através do Google Play Billing. O Google processa as informações de pagamento; não temos acesso aos seus dados de cartão de crédito ou métodos de pagamento.
-
-13.3 Links Externos
-
-Esta política se aplica apenas ao Human Error. O app pode conter links para sites de terceiros (ex: política de privacidade do Firebase). Não somos responsáveis pelas práticas de privacidade destes sites.
-
-
-
+13.2 Links Externos
+Esta política se aplica apenas ao Human Error. O app pode conter links para sites de terceiros. Não somos responsáveis pelas práticas de privacidade destes sites.
 
 Human Error – To Fail is Human
 
-© 2026 Guilherme Ramos. Todos os direitos reservados.
+Desenvolvido por: Guippbr
 
+Aplicativo: Human Error
+
+Versão da Política: 1.1
+
+Data de Vigência: 06 de fevereiro de 2026
+
+© 2026 Guippbr - Guilherme Ramos. Todos os direitos reservados.
